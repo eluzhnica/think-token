@@ -1,1 +1,4 @@
 git+https://github.com/huggingface/transformers@e9ad51306fdcc3fb79d837d667e21c6d075a2451#egg=transformers
+datasets==2.12.0
+wandb==0.15.11
+tokenizers==0.12.1
