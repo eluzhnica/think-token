@@ -1,0 +1,1 @@
+git+https://github.com/huggingface/transformers@e9ad51306fdcc3fb79d837d667e21c6d075a2451#egg=transformers
